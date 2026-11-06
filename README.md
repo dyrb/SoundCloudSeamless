@@ -1,16 +1,26 @@
-# SoundCloud Seamless Generator
+<h1 align="center">SoundCloud Seamless Generator</h1>
 
-Create a matching SoundCloud banner and avatar from a single image.
+<p align="center">
+  Create a matching SoundCloud banner and avatar from a single image.
+</p>
 
-[![Open](https://img.shields.io/badge/Open_Generator-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)]([YOUR_GITHUB_PAGES_URL](https://dyrb.github.io/SoundCloudSeamless/))
+<p align="center">
+  <a href="https://dyrb.github.io/SoundCloudSeamless/">
+    <img src="https://img.shields.io/badge/OPEN_GENERATOR-FF5500?style=for-the-badge" alt="Open Generator" height="48">
+  </a>
+</p>
 
-## You can:
+## Features
+
 - Drag and zoom with mouse or touch support
-- Export banners at 2480 × 520 and avatars at 408 × 408
-- PNG and JPG downloads
+- Export a 2480 × 520 banner and a 408 × 408 avatar
+- Download as PNG or JPG
+- Image processing stays in your browser
 
-## How To
-Upload an image, adjust the framing, and download both files. Choose PNG for lossless output.
+## How to use
+
+Upload an image, adjust the framing, and download both files.
+Choose PNG for lossless output.
 
 ---
 
